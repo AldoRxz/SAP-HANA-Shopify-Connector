@@ -29,6 +29,16 @@ This project is a Python-based integration tool that enables seamless data synch
 
 ---
 
+🚧 Roadmap
+ - Connect to SAP HANA and retrieve product info
+ - Upload data to Shopify using REST API
+ - Add logging and error handling
+ - Automate scheduled syncs (e.g., with cron or Airflow)
+ - Implement incremental updates
+ - Build web interface (optional future feature
+
+ ---
+
 ## 🛠 Installation
 
 ```bash
@@ -64,16 +74,3 @@ SHOPIFY_STORE_URL=yourstore.myshopify.com
 
 ---
 
-
-🚧 Roadmap
- Connect to SAP HANA and retrieve product info
-
- Upload data to Shopify using REST API
-
- Add logging and error handling
-
- Automate scheduled syncs (e.g., with cron or Airflow)
-
- Implement incremental updates
-
- Build web interface (optional future feature
