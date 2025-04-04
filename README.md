@@ -62,6 +62,8 @@ SHOPIFY_API_KEY=your_api_key
 SHOPIFY_PASSWORD=your_api_password
 SHOPIFY_STORE_URL=yourstore.myshopify.com
 
+---
+
 
 🚧 Roadmap
  Connect to SAP HANA and retrieve product info
