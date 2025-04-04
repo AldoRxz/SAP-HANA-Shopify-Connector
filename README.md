@@ -29,7 +29,7 @@ This project is a Python-based integration tool that enables seamless data synch
 
 ---
 
-🚧 Roadmap
+## 🚧 Roadmap
  - Connect to SAP HANA and retrieve product info
  - Upload data to Shopify using REST API
  - Add logging and error handling
