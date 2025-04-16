@@ -43,7 +43,7 @@ This project is a Python-based integration tool that enables seamless data synch
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sap-hana-shopify-connector.git
+git clone (https://github.com/AldoRxz/SAP-HANA-Shopify-Connector.git)
 cd sap-hana-shopify-connector
 
 # Create a virtual environment (optional)
